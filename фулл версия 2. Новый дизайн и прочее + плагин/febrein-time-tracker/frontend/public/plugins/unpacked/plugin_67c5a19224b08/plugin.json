@@ -1,8 +1,0 @@
-{
-  "slug": "profile",
-  "name": "Profile Plugin",
-  "description": "Плагин для отображения профиля пользователя",
-  "version": "1.0.0",
-  "author": "Ваше имя",
-  "type": "frontend"
-}
