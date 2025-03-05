@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PHPUnit">
+    <option name="directories">
+      <list>
+        <option value="$PROJECT_DIR$/febrein-time-tracker/tests/Unit" />
+        <option value="$PROJECT_DIR$/febrein-time-tracker/tests/Feature" />
+        <option value="$PROJECT_DIR$/Баг починил, и поправио интерфейс проблема в тайм логе/febrein-time-tracker/tests/Unit" />
+        <option value="$PROJECT_DIR$/Баг починил, и поправио интерфейс проблема в тайм логе/febrein-time-tracker/tests/Feature" />
+        <option value="$PROJECT_DIR$/рабочая админка баг два дубля/febrein-time-tracker/tests/Unit" />
+        <option value="$PROJECT_DIR$/рабочая админка баг два дубля/febrein-time-tracker/tests/Feature" />
+      </list>
+    </option>
+  </component>
+</project>
